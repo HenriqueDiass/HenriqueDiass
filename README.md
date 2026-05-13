@@ -77,8 +77,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 
 <br><br>
-<br><br>
-<br><br>
+
 
 ### 📚 Frameworks, Platforms and Libraries:
 <img 
@@ -112,7 +111,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />
 
 <br><br>
-<br><br>
+
 
 ### 💾 Databases:
 
@@ -134,7 +133,6 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
 
-<br><br>
 <br><br>
 
 
@@ -158,7 +156,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
 
 <br><br>
-<br><br>
+
 
 ### 🧑🏻‍💻 IDEs/Editors:
 
@@ -174,7 +172,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" />
     
 <br><br>
-<br><br>
+
 
 ### ⚙️ Operating Systems:
   <img 
