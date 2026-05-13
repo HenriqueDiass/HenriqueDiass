@@ -4,10 +4,6 @@
 - 🚀 Currently working as a Development Intern at IAUPE and exploring public health data analysis and geospatial mapping at Universidade de Pernambuco (UPE).
 - 📚 Focused on improving my full-stack and data skills with Python, FastAPI, Streamlit, React, Nest.js and Next.js
 
-### Want to talk?  
-<a href="mailto:carloshenrique556180@icloud.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="[https://www.linkedin.com/in/gabriel-lopes-de-albuquerque-658a8317b/](https://www.linkedin.com/in/carlos-henrique-jeronimo-dias-130522319/)"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-
 
 ## 🛠️ Techs & Tools
 
